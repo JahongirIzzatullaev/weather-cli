@@ -22,5 +22,8 @@
   "bugs": {
     "url": "htts://ineex.uz",
     "email": "jahongirizzatullaev@mail.ru"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
   }
 }
